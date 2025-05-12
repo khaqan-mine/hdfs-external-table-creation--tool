@@ -66,7 +66,7 @@ Follow the steps below to create the external table or download the guide docume
 
 3. After creation:
 
-Partitions will be repaired automatically
-You will be prompted to create another table or exit
+- Partitions will be repaired automatically
+- You will be prompted to create another table or exit (If you wish to exit external table creation process, simply press N)
 
 
