@@ -14,7 +14,6 @@ This shell based tool simplifies creation of external Hive tables on top of Parq
 
 - script/ # external_table_creation.sh
 - docs/ # documentation and screenshots
-- examples/ # sample output files
 
 ## ⚙️ Prerequisites
 
